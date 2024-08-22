@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kuromu-3rd-anniversary.vercel.app",
+      "permanent": false
+    }
+  ]
+}
